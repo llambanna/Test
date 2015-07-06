@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 here's some more text to consider
 
 trying to modify again 
@@ -5,3 +6,6 @@ trying to modify again
 and again
 
 and again
+=======
+seeing how merge works - adding into master
+>>>>>>> master
