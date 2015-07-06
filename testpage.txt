@@ -1,4 +1,3 @@
-
 here's some more text to consider
 
 trying to modify again 
@@ -12,4 +11,3 @@ seeing how merge works - adding into master
 seeing how merge works - adding into master
 
 and now from desktop branch
-
