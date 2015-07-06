@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 here's some more text to consider
 
 trying to modify again 
@@ -7,11 +6,10 @@ trying to modify again
 and again
 
 and again
-=======
+
 seeing how merge works - adding into master
->>>>>>> master
-=======
+
 seeing how merge works - adding into master
 
 and now from desktop branch
->>>>>>> 0effb8c488a895d41e4a3419b82739608e413c88
+
