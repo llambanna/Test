@@ -8,3 +8,6 @@ and again
 
 seeing how merge works - adding into master
 
+seeing how merge works - adding into master
+
+and now from desktop branch
